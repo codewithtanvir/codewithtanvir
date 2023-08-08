@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Tanvir Rahman</h1>
 <p align="center">
-  <img src="https://qph.cf2.quoracdn.net/main-qimg-5554ef43da2a1e789ab875a7f90e1af5-pjlq" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/366216191_247150424880743_4737618599838133327_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG_M4gV5I5d2R0mejN9zSO36M-cjNxTtmXoz5yM3FO2ZVpOTU2xkYTmF506bT1kVOqlxvctOB8e9nY-vulMOcEf&_nc_ohc=zZoJg6gyEhcAX-xyVIF&_nc_ht=scontent.fdac24-4.fna&oh=00_AfAYtc6ecrgStwU_oRaWZNUPcioV8OlJ9G5nzsjpfouobQ&oe=64D5F76D" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 <h3 align="center">A passionate CS student from Bangladesh</h3>
 
@@ -25,6 +25,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithtanvir&show_icons=true&locale=en&layout=compact" alt="codewithtanvir" /></p>
 
 
-<p align="center">
-  <img src="https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/366216191_247150424880743_4737618599838133327_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG_M4gV5I5d2R0mejN9zSO36M-cjNxTtmXoz5yM3FO2ZVpOTU2xkYTmF506bT1kVOqlxvctOB8e9nY-vulMOcEf&_nc_ohc=zZoJg6gyEhcAX-xyVIF&_nc_ht=scontent.fdac24-4.fna&oh=00_AfAYtc6ecrgStwU_oRaWZNUPcioV8OlJ9G5nzsjpfouobQ&oe=64D5F76D" width="100%" title="Footer Card" alt="Footer Card">
-</p>
+
