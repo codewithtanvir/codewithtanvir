@@ -2,7 +2,7 @@
 # Md Tanvir Rahman
 
 ## About Me
-I am a passionate computer science student with a strong interest in software development and technology. My journey in the world of coding began when I wrote my first "Hello World" program, and I've been hooked ever since. I am constantly seeking to expand my knowledge and skills in the ever-evolving field of computer science.
+I am a passionate Computer Science student with a strong interest in Artificial Intelligence (AI) and Machine Learning (ML). I am fascinated by the potential of these technologies to solve complex problems and improve our lives in countless ways.
 
 ## Current Status
 - **University**: American International University-Bangladesh (AIUB)
