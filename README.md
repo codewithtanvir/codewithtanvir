@@ -1,5 +1,6 @@
 
 # Md Tanvir Rahman
+![gitartwork](gitartwork.svg)
 
 ## About Me
 I am a passionate Computer Science student with a strong interest in Artificial Intelligence (AI) and Machine Learning (ML). I am fascinated by the potential of these technologies to solve complex problems and improve our lives in countless ways.
