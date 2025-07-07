@@ -22,7 +22,7 @@ I am a Computer Science and Engineering student at **American International Univ
 ### 🔗 Connect with Me
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/md-tanvir-rahman-1b0b2a1b6/" target="_blank">
+    <a href="https://www.linkedin.com/in/muhammud-tanvir-rahman/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/codewithtanvir" target="_blank">
